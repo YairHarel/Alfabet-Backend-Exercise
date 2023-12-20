@@ -23,8 +23,8 @@ This project implements a RESTful API using FastAPI in Python for managing event
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository_url>
-   cd <project_folder>
+   git clone https://github.com/YairHarel/Alfabet-Backend-Exercise.git
+   cd Alfabet-Backend-Exercise
 Install Dependencies:
 ```
 pip install -r requirements.txt
